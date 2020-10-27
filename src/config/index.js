@@ -1,0 +1,10 @@
+import Config from 'react-native-config';
+
+const API_AUTH_USERNAME = Config.API_AUTH_USERNAME;
+const API_AUTH_PASSWORD = Config.API_AUTH_PASSWORD;
+const API_URL = Config.API_URL;
+const API_TIMEOUT = 20000;
+const APP_KEY = Config.APP_KEY;
+const IS_PRODUCTION = Config.IS_PRODUCTION;
+
+export {API_AUTH_USERNAME, API_AUTH_PASSWORD, API_URL, API_TIMEOUT, APP_KEY, IS_PRODUCTION};

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582713178910",
+    "firebase_url": "https://mobillisovellukset-ios.firebaseio.com",
+    "project_id": "mobillisovellukset-ios",
+    "storage_bucket": "mobillisovellukset-ios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582713178910:android:29060d57f0da6918dbe70f",
+        "android_client_info": {
+          "package_name": "fi.laskux.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582713178910-o9m4f76nc15ddub5t7sabucnhc0sesmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS4vjG1SrXk21BsuzkgLlVwJjUZ2YvGtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582713178910-o9m4f76nc15ddub5t7sabucnhc0sesmb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "582713178910-pdn50tdddg5uklmrh7a7ms9vo8s6cefh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fi.laskux.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
