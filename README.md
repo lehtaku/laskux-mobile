@@ -1,4 +1,4 @@
-<img src="https://www.laskux.fi/img/svg/laskux-logo-blue.svg" width="60%" align="center">
+<img src="https://www.laskux.fi/img/svg/laskux-logo-blue.svg" width="50%" align="center">
 
 ***
 
@@ -12,53 +12,44 @@ Built with
 3rd. party dependencies :blue_book:
 * [React-Redux](https://react-redux.js.org/)
 * [React-Navigation](https://reactnavigation.org/)
-* .. and many more
+* and many more..
 
 # Main features
 
-## :closed_lock_with_key: Authentication 
-
-**Register**
+## :lock: Authentication 
  * Register to service
-
-**Login**
  * Save login credentials to device local storage
  * Use credentials in all HTTPS requests of application
- 
-**Forgot password**
  * Request new password with login email address
- 
-**Logout**
  * Remove user credentials from storage
 
-## :chart_with_downwards_trend: Website monitoring
+## :moneybag: Invoicing
 
-**Monitors page (List monitors)**
- * Monitor name
- * Health (Up/Warning/Down)
- * State (Enabled/Paused)
- * Monitoring URL
- * Link to monitor details page
- * Sort monitors by monitor groups
- * Sort monitors by health or state
+* Create, edit, preview, and send sales, credit, and reminder invoices (email, e-invoice or paper)
+* Receive e-invoices
+* Mark invoices as paid
+* Mark invoices for collection
+* Archive invoices
 
-**Monitor page (Monitor details)**
- * Monitor name
- * Health
- * Scan interval
- * Last scan
- * Monitoring state (Enabled/Paused) - Toggleable ON/OFF
- * Chart by loadtime (24h/7d/30d) & Steps 24-500
- * Loadtimes (Average/Max/Min)
+## :camera: Receipts
+
+* Capture receipts with camera or from gallery and save
+* Manage receipts
+
+## :moneybag: Offers
+* Create, edit, preview, and send offers
+
+## :file_folder: Product and customer management
+* Manage customer register
+* Manage product register
+
+## :bar_chart: Reports
+* View sales as well as monthly, customer, and product-specific reports
+
+## :mailbox: Account
+* Manage user/company information and other service-related settings
+* Contact our customer service
   
-  
-## :wrench: Settings
-
-**Notifications**
- * Toggle up/down notifications
- * Toggle down reminders
- 
- 
 ## Screenshots
 <img src="./screenshots/img-1.png" width="30%">
 <img src="./screenshots/img-2.png" width="30%">
