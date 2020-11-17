@@ -28,7 +28,7 @@ Built with
 * Create, edit, preview, and send sales, credit, and reminder invoices (email, e-invoice or paper)
 * Receive e-invoices
 * Mark invoices as paid
-* Mark invoices for collection
+* Send invoices to collection
 * Archive invoices
 
 ## :camera: Receipts
@@ -48,7 +48,7 @@ Built with
 
 ## :mailbox: Account
 * Manage user/company information and other service-related settings
-* Contact our customer service
+* Contact our customer service via form or phone/email
   
 ## Screenshots
 <img src="./screenshots/img-1.png" width="30%">
