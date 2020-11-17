@@ -51,15 +51,15 @@ Built with
 * Contact our customer service via form or phone/email
   
 ## Screenshots
-<img src="http://lehtaku.com/images/laskux/img-01.png">
-<img src="http://lehtaku.com/images/laskux/img-02.png">
-<img src="http://lehtaku.com/images/laskux/img-03.png">
-<img src="http://lehtaku.com/images/laskux/img-04.png">
-<img src="http://lehtaku.com/images/laskux/img-05.png">
-<img src="http://lehtaku.com/images/laskux/img-06.png">
-<img src="http://lehtaku.com/images/laskux/img-07.png">
-<img src="http://lehtaku.com/images/laskux/img-08.png">
-<img src="http://lehtaku.com/images/laskux/img-09.png">
+<img src="http://lehtaku.com/images/laskux/img-1.png">
+<img src="http://lehtaku.com/images/laskux/img-2.png">
+<img src="http://lehtaku.com/images/laskux/img-3.png">
+<img src="http://lehtaku.com/images/laskux/img-4.png">
+<img src="http://lehtaku.com/images/laskux/img-5.png">
+<img src="http://lehtaku.com/images/laskux/img-6.png">
+<img src="http://lehtaku.com/images/laskux/img-7.png">
+<img src="http://lehtaku.com/images/laskux/img-8.png">
+<img src="http://lehtaku.com/images/laskux/img-9.png">
 <img src="http://lehtaku.com/images/laskux/img-10.png">
 <img src="http://lehtaku.com/images/laskux/img-11.png">
 <img src="http://lehtaku.com/images/laskux/img-12.png">
