@@ -51,10 +51,23 @@ Built with
 * Contact our customer service via form or phone/email
   
 ## Screenshots
-<img src="./screenshots/img-1.png" width="30%">
-<img src="./screenshots/img-2.png" width="30%">
-<img src="./screenshots/img-3.png" width="30%">
-<img src="./screenshots/img-4.png" width="30%">
-<img src="./screenshots/img-5.png" width="30%">
-<img src="./screenshots/img-6.png" width="30%">
-<img src="./screenshots/img-7.png" width="30%">
+<img src="http://lehtaku.com/images/laskux/img-01.png">
+<img src="http://lehtaku.com/images/laskux/img-02.png">
+<img src="http://lehtaku.com/images/laskux/img-03.png">
+<img src="http://lehtaku.com/images/laskux/img-04.png">
+<img src="http://lehtaku.com/images/laskux/img-05.png">
+<img src="http://lehtaku.com/images/laskux/img-06.png">
+<img src="http://lehtaku.com/images/laskux/img-07.png">
+<img src="http://lehtaku.com/images/laskux/img-08.png">
+<img src="http://lehtaku.com/images/laskux/img-09.png">
+<img src="http://lehtaku.com/images/laskux/img-10.png">
+<img src="http://lehtaku.com/images/laskux/img-11.png">
+<img src="http://lehtaku.com/images/laskux/img-12.png">
+<img src="http://lehtaku.com/images/laskux/img-13.png">
+<img src="http://lehtaku.com/images/laskux/img-14.png">
+<img src="http://lehtaku.com/images/laskux/img-15.png">
+<img src="http://lehtaku.com/images/laskux/img-16.png">
+<img src="http://lehtaku.com/images/laskux/img-17.png">
+<img src="http://lehtaku.com/images/laskux/img-18.png">
+<img src="http://lehtaku.com/images/laskux/img-19.png">
+<img src="http://lehtaku.com/images/laskux/img-20.png">
