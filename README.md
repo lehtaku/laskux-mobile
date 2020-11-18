@@ -2,9 +2,9 @@
 
 ***
 
-# Laskux Mobile - Helppoa ja nopeaa laskutusta
+# Laskux Mobile - Invoicing as you go
 
-Mobile application for [Laskux](https://www.laskux.fi/) services.
+Mobile app for [Laskux](https://www.laskux.fi/). With the app, you invoice your customers wherever you are. Capture receipts easily and manage your customer and item registers.
 
 [<img src="http://lehtaku.com/images/icons/get-it-on-google-play.png" width="20%">](https://play.google.com/store/apps/details?id=fi.laskux.mobile&hl=fi)
 [<img src="http://lehtaku.com/images/icons/get-it-on-app-store.png" width="20%">](https://apps.apple.com/fi/app/laskux/id1493837770?l=fi)
