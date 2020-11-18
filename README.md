@@ -12,7 +12,10 @@ Built with
 3rd. party dependencies :blue_book:
 * [React-Redux](https://react-redux.js.org/)
 * [React-Navigation](https://reactnavigation.org/)
-* and many more..
+* [etc..](https://github.com/lehtaku/laskux-mobile/blob/main/package.json)
+
+[<img src="http://lehtaku.com/images/icons/get-it-on-google-play.png" width="25%">](https://play.google.com/store/apps/details?id=fi.laskux.mobile&hl=fi)
+[<img src="http://lehtaku.com/images/icons/get-it-on-app-store.png" width="25%">](https://apps.apple.com/fi/app/laskux/id1493837770?l=fi)
 
 # Main features
 
