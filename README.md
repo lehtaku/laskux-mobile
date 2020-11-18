@@ -1,8 +1,8 @@
-<img src="https://www.laskux.fi/img/svg/laskux-logo-blue.svg" width="50%" align="center">
+<img src="https://www.laskux.fi/img/svg/laskux-logo-blue.svg" width="40%" align="center">
 
 ***
 
-# Laskux Mobile - Invoicing as you go
+# Laskux Mobile - Helppoa ja nopeaa laskutusta
 
 Mobile application for [Laskux](https://www.laskux.fi/) services.
 
